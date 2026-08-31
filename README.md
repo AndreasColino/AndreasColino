@@ -60,7 +60,7 @@ Currently looking for a **Software Development Internship** followed by an **App
 |---|---|---|
 | **Stargate Management App** | Desktop app for planetary and crew data management with SQLite & BCrypt authentication. | `C#` `.NET WinForms` `SQLite` `BCrypt` |
 | **Inscryption-like Card Game** | Turn-based tactical card game (MVC architecture, JUnit 4, UML). | `Java` `JUnit 4` `MVC` `PlantUML` |
-| **PDF Batch Automation** | Batch document realignment (recto/verso) and spreadsheet-driven inventory tracking. | `Python` `Batch` `OpenpyXL` |
+| **Custom PDF Print Tool** | GUI for side-by-side document layout, text overlay, and native Windows printing. | `Python` `CustomTkinter` `PyMuPDF` |
 
 ---
 
