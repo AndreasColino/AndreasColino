@@ -16,7 +16,11 @@
 **Computer Science student** at IUT Robert Schuman (University of Strasbourg).  
 Passionate about software engineering, object-oriented design, and automation.
 
-🎯 **Goal:** Looking for a **Software Development Internship** followed by an **Apprenticeship**.
+## 🎯 Goal
+
+Currently looking for a **Software Development Internship** followed by an **Apprenticeship / Work-Study program**.
+
+📄 **[Download my Resume (PDF)](./Resume_Andreas_Werle-Colino.pdf)**
 
 ---
 
