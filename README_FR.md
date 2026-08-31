@@ -16,7 +16,11 @@
 Étudiant en **BUT Informatique** à l'IUT Robert Schuman (Université de Strasbourg).  
 Passionné par le développement logiciel, la conception orientée objet et l'automatisation.
 
-🎯 **Objectif :** Recherche d'un **stage de développement logiciel** suivi d'une **alternance**.
+## 🎯 Objectif
+
+Recherche d'un **stage de développement logiciel** suivi d'une **alternance**.
+
+📄 **[Consulter mon CV (PDF)](./CV_Andreas_Werle-Colino.pdf)**
 
 ---
 
