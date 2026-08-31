@@ -59,7 +59,7 @@ Recherche d'un **stage de développement logiciel** suivi d'une **alternance**.
 |---|---|---|
 | **Application Stargate** | Application desktop de gestion et visualisation (planètes, équipages) avec base SQLite et hachage BCrypt. | `C#` `.NET WinForms` `SQLite` `BCrypt` |
 | **Inscryption-like** | Jeu de cartes tactique au tour par tour (Architecture MVC, tests JUnit 4, diagrammes UML). | `Java` `JUnit 4` `MVC` `PlantUML` |
-| **Automatisation PDF** | Script de traitement par lots, réalignement recto/verso et suivi de stock via tableur Excel. | `Python` `Batch` `OpenpyXL` |
+| **Outil d'Impression PDF** | nterface graphique d'assemblage recto/verso avec superposition de texte et impression native Windows. | `Python` `CustomTkinter` `PyMuPDF` |
 
 ---
 
