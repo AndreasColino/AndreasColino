@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="right">
 
-<!--
-**AndreasColino/AndreasColino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](#)
+[![Français](https://img.shields.io/badge/Langue-Français-lightgrey?style=for-the-badge)](README_FR.md)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F4EF7&width=460&lines=Hi%2C+I'm+Andreas+Werl%C3%A9-Colino;Software+Developer;Computer+Science+Student)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+**Computer Science student** at IUT Robert Schuman (University of Strasbourg).  
+Passionate about software engineering, object-oriented design, and automation.
+
+🎯 **Goal:** Looking for a **Software Development Internship** followed by an **Apprenticeship**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat&logo=sqlite&logoColor=white)
+
+**Frameworks, Libraries & Tools**
+
+![.NET](https://img.shields.io/badge/.NET-WinForms-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JUnit 4](https://img.shields.io/badge/JUnit-4-25A162?style=flat&logo=junit5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Networking & DevOps**
+
+![Cisco](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| **Stargate Management App** | Desktop app for planetary and crew data management with SQLite & BCrypt authentication. | `C#` `.NET WinForms` `SQLite` `BCrypt` |
+| **Inscryption-like Card Game** | Turn-based tactical card game (MVC architecture, JUnit 4, UML). | `Java` `JUnit 4` `MVC` `PlantUML` |
+| **PDF Batch Automation** | Batch document realignment (recto/verso) and spreadsheet-driven inventory tracking. | `Python` `Batch` `OpenpyXL` |
+
+---
+
+## 📬 Contact Me
+
+- 📧 [andreaswerlecolino@gmail.com](mailto:andreaswerlecolino@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andreas-werl%C3%A9-colino-87a6a733b/)
